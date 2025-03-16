@@ -180,6 +180,15 @@ header .nav-link {
     transition: 0.5s all;
 }
 
+.navbar{
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 150px 0px;
+}
+
+.navbar-nav .nav-link{
+    color: rgba(17, 12, 46, 0.3);
+}
+
+
 header .nav-link:hover{
     color: rgba(0,0,0,0.5) !important;
 }
