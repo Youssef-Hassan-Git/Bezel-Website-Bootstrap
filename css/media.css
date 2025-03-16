@@ -1,0 +1,24 @@
+@media screen and (max-width:768px) {
+    .carousel-item .slide-text {
+        font-size: 50px;
+      
+      }
+
+      .carousel-item .slide-paragraph {
+        font-size: 15px;
+      
+      }
+      
+      #contacts-section .w-80{
+        width: 100%;
+      }
+
+
+      #services-section .services-heading{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+}
