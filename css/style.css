@@ -147,6 +147,8 @@ header .carousel-item .btn-bg2{
 header .carousel-item .btn-bg2:hover{
     background-color: white;
     color: black;
+    transform: translateY(-3%);
+
 }
 
 
@@ -163,6 +165,7 @@ header .carousel-item .btn-bg{
 
 header .carousel-item .btn-bg:hover{
     background-color: #00D5EE;
+    transform: translateY(-3%);
 }
 
 
